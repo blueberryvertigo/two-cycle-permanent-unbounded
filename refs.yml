@@ -1,0 +1,60 @@
+Zha16:
+  type: article
+  title: An update on a few permanent conjectures
+  author: "Zhang, Fuzhen"
+  date: 2016
+  page-range: 305-316
+  url: https://arxiv.org/abs/1608.02844
+  parent:
+    type: periodical
+    title: Special Matrices
+    volume: 4
+
+Hut17:
+  type: article
+  title: A counterexample to the Drury permanent conjecture
+  author: "Hutchinson, George"
+  date: 2017
+  page-range: 301-302
+  serial-number:
+    doi: "10.1515/spma-2017-0022"
+  parent:
+    type: periodical
+    title: Special Matrices
+    volume: 5
+
+Lie66:
+  type: article
+  title: Proofs of some conjectures on permanents
+  author: "Lieb, Elliott H."
+  date: 1966
+  page-range: 127-134
+  parent:
+    type: periodical
+    title: Journal of Mathematics and Mechanics
+    volume: 16
+
+Cho82:
+  type: article
+  title: Is there a permanental analogue of Oppenheim's inequality?
+  author: "Chollet, John"
+  date: 1982
+  page-range: 57-58
+  parent:
+    type: periodical
+    title: American Mathematical Monthly
+    volume: 89
+
+Wan22:
+  type: article
+  title: Lieb's permanental dominance conjecture
+  author: "Wanless, Ian M."
+  date: 2022
+  url: https://arxiv.org/abs/2202.01867
+
+DLMF:
+  type: web
+  title: "NIST Digital Library of Mathematical Functions, Section 4.22, Equation 4.22.1"
+  author: ["Olver, Frank W. J.", "Lozier, Daniel W.", "Boisvert, Ronald F.", "Clark, Charles W."]
+  date: 2024
+  url: https://dlmf.nist.gov/4.22
